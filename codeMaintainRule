@@ -1,0 +1,4 @@
+Rule 1 : don't write more than 400 lines in a single file
+Rule 2 : use proper Naming Conventions for all type of function , Variables , classes
+Rule 3: write unit test cases
+Rule 4 : use right data type

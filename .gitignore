@@ -1,0 +1,28 @@
+# Node.js
+node_modules/
+# macOS
+.DS_Store
+logs/
+# Editor directories and files
+.vscode/
+.idea/
+ 
+# Logs
+ 
+.github/
+# Environment variables
+.env
+ 
+# Dependency lock files
+yarn.lock
+package-lock.json
+
+# Build output
+#dist/
+build/
+out/
+
+# Ignore your own specific files or directories
+# myfile.txt
+# mydirectory/
+note.txt
